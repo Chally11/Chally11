@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://raw.githubusercontent.com/Chally11/Chally11/main/pfp
+![My Profile Picture](https://raw.githubusercontent.com/Chally11/Chally11/main/pfp)
 
 - 🔭 I’m currently working on **Discord Bots**
 - 🌱 I’m currently learning **C++**
