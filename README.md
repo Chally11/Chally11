@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://cdn.discordapp.com/avatars/817867425696579585/91b9d0c395ae5d4e42b37257d296cea1?size=1024
+https://raw.githubusercontent.com/Chally11/Chally11/main/pfp
 
 - 🔭 I’m currently working on **Discord Bots**
 - 🌱 I’m currently learning **C++**
